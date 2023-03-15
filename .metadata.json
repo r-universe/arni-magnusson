@@ -1,0 +1,22 @@
+[
+  {
+    "package": "areaplot",
+    "oncran": true
+  },
+  {
+    "package": "gmt",
+    "oncran": true
+  },
+  {
+    "package": "plotMCMC",
+    "oncran": true
+  },
+  {
+    "package": "r2d2",
+    "oncran": true
+  },
+  {
+    "package": "scape",
+    "oncran": true
+  }
+]
