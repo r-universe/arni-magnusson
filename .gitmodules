@@ -13,6 +13,11 @@
 	url = https://github.com/arni-magnusson/gmt
 	shallow = true
 	registered = true
+[submodule "MSSQL"]
+	path = MSSQL
+	url = https://github.com/cran/MSSQL
+	shallow = true
+	registered = true
 [submodule "plotMCMC"]
 	path = plotMCMC
 	url = https://github.com/arni-magnusson/plotmcmc
