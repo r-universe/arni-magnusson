@@ -13,6 +13,11 @@
 	url = https://github.com/arni-magnusson/gmt
 	shallow = true
 	registered = true
+[submodule "makeit"]
+	path = makeit
+	url = https://github.com/arni-magnusson/makeit
+	shallow = true
+	registered = true
 [submodule "MSSQL"]
 	path = MSSQL
 	url = https://github.com/cran/MSSQL
