@@ -1,40 +1,25 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "areaplot"]
 	path = areaplot
 	url = https://github.com/arni-magnusson/areaplot
-	shallow = true
-	registered = true
 [submodule "gmt"]
 	path = gmt
 	url = https://github.com/arni-magnusson/gmt
-	shallow = true
-	registered = true
 [submodule "makeit"]
 	path = makeit
 	url = https://github.com/arni-magnusson/makeit
-	shallow = true
-	registered = true
 [submodule "MSSQL"]
 	path = MSSQL
 	url = https://github.com/cran/MSSQL
-	shallow = true
-	registered = true
 [submodule "plotMCMC"]
 	path = plotMCMC
 	url = https://github.com/arni-magnusson/plotmcmc
-	shallow = true
-	registered = true
 [submodule "r2d2"]
 	path = r2d2
 	url = https://github.com/arni-magnusson/r2d2
-	shallow = true
-	registered = true
 [submodule "scape"]
 	path = scape
 	url = https://github.com/arni-magnusson/scape
-	shallow = true
-	registered = true
