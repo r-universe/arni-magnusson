@@ -5,6 +5,9 @@
 [submodule "areaplot"]
 	path = areaplot
 	url = https://github.com/arni-magnusson/areaplot
+[submodule "fishgrowth"]
+	path = fishgrowth
+	url = https://github.com/arni-magnusson/fishgrowth
 [submodule "gmt"]
 	path = gmt
 	url = https://github.com/arni-magnusson/gmt
